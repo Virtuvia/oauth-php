@@ -1,0 +1,12 @@
+{
+    "name": "virtuvia/oauth-php",
+    "authors": [
+        {
+            "name": "Matt Lehner",
+            "email": "mlehner@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
